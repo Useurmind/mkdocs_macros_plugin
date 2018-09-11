@@ -14,7 +14,7 @@ def read_file(fname):
 
 
 setup(
-    name='mkdocs-macros-plugin',
+    name='useurmind-mkdocs-macros-plugin',
     version='0.2.2',
     description="Unleash the power of MkDocs with macros and variables",
     long_description=read_file('README.md'),

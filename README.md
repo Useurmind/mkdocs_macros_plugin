@@ -29,6 +29,11 @@
 <!-- tocstop -->
 
 ## Overview
+
+This is a fork of mkdocs-macros-plugin at [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin)
+for changes in mkdocs version 1.0.2. Will be removed as soon as mkdocs-macros-plugin gets fixed.
+
+
 **mkdocs-macros-plugin** is a plugin to make it easier for the contributors
 to a [MkDocs](mkdocs-macros-plugin) website to make richer and more beautiful
 pages, by using **variables** and calls to **macros** in the markdown code.
